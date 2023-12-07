@@ -1,2 +1,2 @@
-#Simple Calculator
+# Simple Calculator
 A calculator that uses simple html, css and javascript to allow the user to ADD, SUBTRACT, MULTIPLY, and DIVIDE numbers. It allows users to alternatively cancel entered numbers or to delete a single input. 
